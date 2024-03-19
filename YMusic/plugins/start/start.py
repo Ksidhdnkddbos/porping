@@ -4,7 +4,7 @@ import config
 from filters import command
 
 
-START_COMMAND = ["الاوامر", "ST"]
+START_COMMAND = ["الاوامر", "Ka"]
 
 @app.on_message(command(START_COMMAND)
 	)
