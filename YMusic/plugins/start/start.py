@@ -9,7 +9,7 @@ START_COMMAND = ["الاوامر", "ST"]
 @app.on_message(command(START_COMMAND)
 	)
 async def _start(_, message):
-	await message.reply_text("""-› اليك قائمة الأوامر - تم انشاء هذا السورس من قبل @lx5x5
+	await message.reply_text("""-› ◥ اެواެمـݛ اެݪتشغيݪ ◤
 
 -› تشغيل او شغل ~ تشغيل ملف صوتي في المجموعة
 -› تكرار ~ سيقوم تكرار الملف 100 مرة 
