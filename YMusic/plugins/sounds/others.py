@@ -10,7 +10,7 @@ import config
 
 STOP_COMMAND = ["كافي", "ايقاف"]
 
-PAUSE_COMMAND = ["مؤقت"]
+PAUSE_COMMAND = ["مؤقت", "وكف"]
 
 RESUME_COMMAND = ["استمرار"]
 
