@@ -22,7 +22,7 @@ VOLUME_COMMAND = ["ضبط", "اضبط"]
 
 LOOP_COMMAND = ["تكرار"]
 
-LOOPEND_COMMAND = ["انهاء ت"]
+LOOPEND_COMMAND = ["انهي"]
 
 
 
