@@ -8,7 +8,7 @@ from YMusic.core import userbot
 from YMusic.misc import SUDOERS
 import config
 
-STOP_COMMAND = ["كافي", "ايقاف"]
+STOP_COMMAND = ["كافي", "ايقاف", "انهاء"]
 
 PAUSE_COMMAND = ["مؤقت", "وكف"]
 
@@ -22,7 +22,7 @@ VOLUME_COMMAND = ["ضبط", "اضبط"]
 
 LOOP_COMMAND = ["تكرار"]
 
-LOOPEND_COMMAND = ["انهاء"]
+LOOPEND_COMMAND = ["انهاء ت"]
 
 
 
