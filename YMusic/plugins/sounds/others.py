@@ -189,7 +189,7 @@ async def _endLoop(_, message):
         else:
             try:
                 await set_loop(message.chat.id, 0)
-                await message.reply_text("-› معطلـة .")
+                await message.reply_text("-› تم تعطيݪ التكرار .")
             except Exception as e:
                 return await message.reply_text(f"Error:- <code>{e}</code>")
     else:
